@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTxbDfCc9AuuhbmY2si8UP5lW9KgEczsyBe7CXeFw2PI/AQak4S+3JWLAWnSdsSJZVGKk/86pX1NUdkARduu4Q==",
+  "dgSpecHash": "yYBMQofTaOEGNxLOVX/zBq85l/TRBiVKW6tMpBJrmOf7+I+fe8bF0NvnoJCIsYz4WBmbsbqY+UoElpcBeOZBuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\CollectionUnitTests\\CollectionUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\CollectionUnitTests\\CollectionUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DamyanMikovski\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\DamyanMikovski\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

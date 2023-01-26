@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj": {}
+    "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj": {
+    "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\DamyanMikovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DamyanMikovski\\AppData\\Roaming\\NuGet\\NuGet.Config",

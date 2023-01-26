@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BimQHQthcIhPl2G4XjptNE5dS7qyDQx+ct0ggA7Z/GBeYYAZhhyXpU3XJMNiJ935g2eYhAdsQ3by293u5GARg==",
+  "dgSpecHash": "SuaIhusx/9QI4I9cnUxvfq+JR2R75pABub9hCCH3udGnbS1i9cX0XwlrjKGow69BhhD7KGkDKKSPu3jHQFWY0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj",
+  "projectFilePath": "C:\\Users\\DamyanMikovski\\Source\\Repos\\CollectionsUnitTestsProject\\NUnitCollections\\Collections\\Collections.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

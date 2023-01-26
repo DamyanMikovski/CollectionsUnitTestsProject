@@ -885,6 +885,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Collections/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Collections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Collections.dll": {}
+        }
       }
     }
   },
@@ -3837,10 +3847,16 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Collections/1.0.0": {
+      "type": "project",
+      "path": "../Collections/Collections.csproj",
+      "msbuildProject": "../Collections/Collections.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Collections >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
@@ -3874,7 +3890,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj": {
+              "projectPath": "C:\\Users\\DamyanMikovski\\SoftUni\\Source\\Repos\\NUnitCollections\\Collections\\Collections.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

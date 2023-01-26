@@ -5,6 +5,19 @@ namespace CollectionUnitTests
     public class CollectionTests
     {
         [Test]
+        public void Test_Collection_EmptyConstructor1()
+        {
+            //Arrange and Act
+            var collection = new Collection<int>();
+
+            var actual = collection.ToString();
+            var expected = "[]";
+
+            //Assert
+            Assert.That(actual, Is.EqualTo(expected));
+            Assert.That(collection.Count == 0 && collection.Capacity == 16, Is.True);
+        }
+        [Test]
         public void Test_Collection_EmptyConstructor()
         {
             //Arrange and Act
